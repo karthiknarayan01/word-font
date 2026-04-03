@@ -1,0 +1,10 @@
+# Build output
+word_font
+*.o
+
+# macOS
+.DS_Store
+
+# Editor directories
+.vscode/
+.idea/
